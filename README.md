@@ -18,7 +18,7 @@ You will need:
 
 # Malware sample: _RustyClaw_
 
-- Sample binary: [🔗 Download from MalwareBazaar](https://bazaar.abuse.ch/sample/b1fe8fbbb0b6de0f1dcd4146d674a71c511488a9eb4538689294bd782df040df/)
+- Sample binary: [materials/prebuilt-files/b1fe8fbbb0b6de0f1dcd4146d674a71c511488a9eb4538689294bd782df040df.zip](materials/prebuilt-files/b1fe8fbbb0b6de0f1dcd4146d674a71c511488a9eb4538689294bd782df040df.zip), or [🔗 Download from MalwareBazaar](https://bazaar.abuse.ch/sample/b1fe8fbbb0b6de0f1dcd4146d674a71c511488a9eb4538689294bd782df040df/)
     - The password for the downloaded ZIP is `infected`.
     - The sample is malware, so treat with caution to avoid accidental execution. We will only be examining this sample statically.
     - The binary has SHA-256 hash `b1fe8fbbb0b6de0f1dcd4146d674a71c511488a9eb4538689294bd782df040df`
